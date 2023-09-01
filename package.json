@@ -1,0 +1,19 @@
+{
+  "name": "@example/minimal",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@sanity/astro": "^1.0.0",
+    "@sanity/image-url": "^1.0.2",
+    "astro": "^2.0.6",
+    "astro-portabletext": "^0.9.1"
+  }
+}
